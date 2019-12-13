@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCoreTPHRepro", "EFCoreTPHRepro\EFCoreTPHRepro.csproj", "{898066C6-4ECC-4894-B18D-6DA66A26B135}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF6TPHRepro", "EF6TPHRepro\EF6TPHRepro.csproj", "{1C4C772D-5D47-4093-B01D-57EFAC0363E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{898066C6-4ECC-4894-B18D-6DA66A26B135}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{898066C6-4ECC-4894-B18D-6DA66A26B135}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{898066C6-4ECC-4894-B18D-6DA66A26B135}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{898066C6-4ECC-4894-B18D-6DA66A26B135}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C4C772D-5D47-4093-B01D-57EFAC0363E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C4C772D-5D47-4093-B01D-57EFAC0363E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C4C772D-5D47-4093-B01D-57EFAC0363E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C4C772D-5D47-4093-B01D-57EFAC0363E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4423554E-8B2C-4C72-9CB4-6ED8DA22C19A}
+	EndGlobalSection
+EndGlobal
